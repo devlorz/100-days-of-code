@@ -4,10 +4,11 @@
 
 **Today's Progress**: I've gone through many exercises on Codecademy.
 
-**Thoughts** Feel good to finish Classes article on Codecademy.
+**Thoughts** Feel good to finish Classes article on Codecademy and excited to try new create_react_app
 
 **Link(s) to work**
 1. [Python - Classes](https://www.codecademy.com/en/courses/python-intermediate-en-egNXj/1/5?curriculum_id=4f89dab3d788890003000096)
+2. [React - create_react_app](https://github.com/jerrynai6/create_react_app)
 
 <!---
 ### Day 0: February 30, 2016 (Example 1)
