@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 18: July 27, Tuesday
+
+**Today's Progress**: Finish building Personal Portfolio Page at FreeCodeCamp. And learn some ReactJS from Codecademy.
+
+**Thoughts** Feel happy to finish the project. Though not quite good page. Try to improve later.
+
+**Link(s) to work**
+1. [Project - Personal Portfolio Page](http://codepen.io/jerryna6/pen/rLKxZX)
+2. [React - Intro to JSX](https://www.codecademy.com/en/courses/react-101/lessons/react-jsx-intro/exercises/render-jsx?action=resume)
+
 ### Day 17: July 26, Monday
 
 **Today's Progress**: I've gone through many exercises on Codecademy.
