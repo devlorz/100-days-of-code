@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 20: July 29, Thursday
+
+**Today's Progress**: Done some JavaScript and React's JSX.
+
+**Thoughts** Feel excited to learn new things!
+
+**Link(s) to work**
+1. [FreeCodeCamp - JavaScript](https://www.freecodecamp.com/challenges/declare-string-variables)
+2. [React - Advance JSX](https://www.codecademy.com/en/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-classname-class?action=lesson_resume)
+
 ### Day 19: July 28, Wednesday
 
 **Today's Progress**: Finish Python Course on Codecademy! Learn some JavaScript and React's Virtual DOM
