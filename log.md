@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 21: July 31, Saturday
+
+**Today's Progress**: Done some JavaScript and React's JSX and React Component.
+
+**Thoughts** Feel excited to learn new things!
+
+**Link(s) to work**
+1. [FreeCodeCamp - JavaScript](https://www.freecodecamp.com/challenges/use-bracket-notation-to-find-the-nth-character-in-a-string)
+2. [React - Your First React Component](https://www.codecademy.com/en/courses/react-101/lessons/your-first-react-component/exercises/hello-world-component?action=lesson_resume)
+
 ### Day 20: July 29, Thursday
 
 **Today's Progress**: Done some JavaScript and React's JSX.
