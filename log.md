@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 21: July 31, Saturday
+### Day 22: July 31, Sunday
+
+**Today's Progress**: Done some JavaScript and React Component.
+
+**Thoughts** Feel excited to learn new things!
+
+**Link(s) to work**
+1. [FreeCodeCamp - JavaScript](https://www.freecodecamp.com/challenges/manipulate-arrays-with-shift)
+2. [React - Components Render Other Components](https://www.codecademy.com/en/courses/react-101/lessons/components-render-each-other/exercises/components-interacting-intro?action=lesson_resume)
+
+### Day 21: July 30, Saturday
 
 **Today's Progress**: Done some JavaScript and React's JSX and React Component.
 
@@ -10,7 +20,7 @@
 1. [FreeCodeCamp - JavaScript](https://www.freecodecamp.com/challenges/use-bracket-notation-to-find-the-nth-character-in-a-string)
 2. [React - Your First React Component](https://www.codecademy.com/en/courses/react-101/lessons/your-first-react-component/exercises/hello-world-component?action=lesson_resume)
 
-### Day 20: July 29, Thursday
+### Day 20: July 29, Friday
 
 **Today's Progress**: Done some JavaScript and React's JSX.
 
@@ -20,7 +30,7 @@
 1. [FreeCodeCamp - JavaScript](https://www.freecodecamp.com/challenges/declare-string-variables)
 2. [React - Advance JSX](https://www.codecademy.com/en/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-classname-class?action=lesson_resume)
 
-### Day 19: July 28, Wednesday
+### Day 19: July 28, Thursday
 
 **Today's Progress**: Finish Python Course on Codecademy! Learn some JavaScript and React's Virtual DOM
 
@@ -31,7 +41,7 @@
 2. [FreeCodeCamp - JavaScript](https://www.freecodecamp.com/challenges/add-two-numbers-with-javascript)
 3. [React - Virtual DOM](https://www.codecademy.com/en/courses/react-101/lessons/react-virtual-dom/exercises/virtual-dom-intro?action=lesson_resume)
 
-### Day 18: July 27, Tuesday
+### Day 18: July 27, Wednesday
 
 **Today's Progress**: Finish building Personal Portfolio Page at FreeCodeCamp. And learn some ReactJS from Codecademy.
 
@@ -41,7 +51,7 @@
 1. [Project - Personal Portfolio Page](http://codepen.io/jerryna6/pen/rLKxZX)
 2. [React - Intro to JSX](https://www.codecademy.com/en/courses/react-101/lessons/react-jsx-intro/exercises/render-jsx?action=resume)
 
-### Day 17: July 26, Monday
+### Day 17: July 26, Tuesday
 
 **Today's Progress**: I've gone through many exercises on Codecademy.
 
