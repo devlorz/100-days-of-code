@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 24: August 3, Wednesday
+
+**Today's Progress**: Done some JavaScript and React Component's state.
+
+**Thoughts** Feel good to finish Introduction to React Part 1!
+
+**Link(s) to work**
+1. [FreeCodeCamp - JavaScript](https://www.freecodecamp.com/challenges/selecting-from-many-options-with-switch-statements)
+2. [React - this.state](https://www.codecademy.com/en/courses/react-101/lessons/this-state/exercises/this-state-intro?action=lesson_resume)
+
 ### Day 23: August 2, Tuesday
 
 **Today's Progress**: Done some JavaScript and React Component's prop.
@@ -8,7 +18,7 @@
 
 **Link(s) to work**
 1. [FreeCodeCamp - JavaScript](https://www.freecodecamp.com/challenges/comparison-with-the-equality-operator)
-2. [React - Components Render Other Components](https://www.codecademy.com/en/courses/react-101/lessons/this-props/exercises/this-props-intro?action=lesson_resume)
+2. [React - this.props](https://www.codecademy.com/en/courses/react-101/lessons/this-props/exercises/this-props-intro?action=lesson_resume)
 
 ### Day 22: July 31, Sunday
 
