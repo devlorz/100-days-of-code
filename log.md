@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 25: August 4, Thursday
+
+**Today's Progress**: Done some JavaScript and React Stateless Component.
+
+**Thoughts** Feel good to start learing Introduction to React.js: Part II!
+
+**Link(s) to work**
+1. [FreeCodeCamp - JavaScript](https://www.freecodecamp.com/challenges/counting-cards)
+2. [React - Stateless Components Inherit From Stateful Components](https://www.codecademy.com/en/courses/react-102/lessons/stateless-inherit-stateful-intro/exercises/intro-one-oh-two?action=lesson_resume)
+3. 
 ### Day 24: August 3, Wednesday
 
 **Today's Progress**: Done some JavaScript and React Component's state.
