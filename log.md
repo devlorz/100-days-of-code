@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 26: August 7, Sunday
+
+**Today's Progress**: Done some JavaScript's Object and React (Child Components Update Their Parents' state).
+
+**Thoughts** Feel good to start learing Introduction to React.js: Part II!
+
+**Link(s) to work**
+1. [FreeCodeCamp - JavaScript's Object](https://www.freecodecamp.com/challenges/accessing-objects-properties-with-variables)
+2. [React - Child Components Update Their Parents' state](https://www.codecademy.com/en/courses/react-102/lessons/child-updates-parents-state/exercises/child-updates-parents-state-intro?action=lesson_resume)
+
 ### Day 25: August 4, Thursday
 
 **Today's Progress**: Done some JavaScript and React Stateless Component.
@@ -9,7 +19,7 @@
 **Link(s) to work**
 1. [FreeCodeCamp - JavaScript](https://www.freecodecamp.com/challenges/counting-cards)
 2. [React - Stateless Components Inherit From Stateful Components](https://www.codecademy.com/en/courses/react-102/lessons/stateless-inherit-stateful-intro/exercises/intro-one-oh-two?action=lesson_resume)
-3. 
+ 
 ### Day 24: August 3, Wednesday
 
 **Today's Progress**: Done some JavaScript and React Component's state.
