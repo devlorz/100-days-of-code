@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 27: August 8, Monday
+
+**Today's Progress**: Done some JavaScript's Object and React Child Components Update Their Siblings' props.
+
+**Thoughts** Feel good to start learning Introduction to React.js: Part II!
+
+**Link(s) to work**
+1. [FreeCodeCamp - JavaScript's Object](https://www.freecodecamp.com/challenges/testing-objects-for-properties)
+2. [React - Child Components Update Their Siblings' props](https://www.codecademy.com/en/courses/react-102/lessons/child-updates-sibling/exercises/stateless-inherit-stateful-recap?action=resume)
+
 ### Day 26: August 7, Sunday
 
 **Today's Progress**: Done some JavaScript's Object and React (Child Components Update Their Parents' state).
