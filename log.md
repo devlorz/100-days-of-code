@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 28: August 9, Tuesday
+
+**Today's Progress**: Done some JavaScript's Object and simple styling in React.
+
+**Thoughts** Feel good to start learning simple styling in React!
+
+**Link(s) to work**
+1. [FreeCodeCamp - JavaScript's Object](https://www.freecodecamp.com/challenges/accessing-nested-arrays)
+2. [React - simple styling in React](https://www.codecademy.com/en/courses/react-102/lessons/style/exercises/advanced-react-intro?action=lesson_resume)
+
 ### Day 27: August 8, Monday
 
 **Today's Progress**: Done some JavaScript's Object and React Child Components Update Their Siblings' props.
