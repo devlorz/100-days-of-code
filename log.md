@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 29: August 10, Wednesday
+
+**Today's Progress**: Done some JavaScript's Object, Loop and React Container Components From Presentational Components.
+
+**Thoughts** Feel good to learn new React programming pattern!
+
+**Link(s) to work**
+1. [FreeCodeCamp - JavaScript's Object & Loop](https://www.freecodecamp.com/challenges/iterate-with-javascript-while-loops)
+2. [React - Container Components From Presentational Components](https://www.codecademy.com/en/courses/react-102/lessons/container-presentational-components/exercises/container-presentational-components-intro?action=lesson_resume)
+
 ### Day 28: August 9, Tuesday
 
 **Today's Progress**: Done some JavaScript's Object and simple styling in React.
