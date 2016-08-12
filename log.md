@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 30: August 12, Friday
+
+**Today's Progress**: Done some JavaScript's Loop and React Stateless Functional Components.
+
+**Thoughts** Feel good to learn React Stateless Functional Components!
+
+**Link(s) to work**
+1. [FreeCodeCamp - JavaScript's Loop](https://www.freecodecamp.com/challenges/profile-lookup)
+2. [React - Stateless Functional Components](https://www.codecademy.com/en/courses/react-102/lessons/stateless-functional-components/exercises/stateless-functional-component-intro?action=lesson_resume)
+
 ### Day 29: August 10, Wednesday
 
 **Today's Progress**: Done some JavaScript's Object, Loop and React Container Components From Presentational Components.
