@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 31: August 13, Saturday
+
+**Today's Progress**: Do some JavaScript's Loop, Random and React PropTypes.
+
+**Thoughts** Feel good to learn React Stateless Functional Components!
+
+**Link(s) to work**
+1. [FreeCodeCamp - JavaScript's Loop , Random](https://www.freecodecamp.com/challenges/sift-through-text-with-regular-expressions)
+2. [React - PropTypes](https://www.codecademy.com/en/courses/react-102/lessons/proptypes/exercises/proptypes-intro?action=lesson_resume)
+
 ### Day 30: August 12, Friday
 
 **Today's Progress**: Done some JavaScript's Loop and React Stateless Functional Components.
