@@ -1,10 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 32: August 14, Sunday
+
+**Today's Progress**: Do some JavaScript's Regular Expressions, Function Constructor and React Forms.
+
+**Thoughts** Feel good to learn JavaScript and React Forms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - JavaScript's Regular Expressions, Function Constructor](https://www.freecodecamp.com/challenges/make-object-properties-private)
+2. [React - React Forms](https://www.codecademy.com/en/courses/react-102/lessons/react-forms/exercises/react-forms-intro?action=lesson_resume)
+
 ### Day 31: August 13, Saturday
 
 **Today's Progress**: Do some JavaScript's Loop, Random and React PropTypes.
 
-**Thoughts** Feel good to learn React Stateless Functional Components!
+**Thoughts** Feel good to learn React PropTypes!
 
 **Link(s) to work**
 1. [FreeCodeCamp - JavaScript's Loop , Random](https://www.freecodecamp.com/challenges/sift-through-text-with-regular-expressions)
