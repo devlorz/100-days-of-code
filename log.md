@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 33: August 15, Monday
+
+**Today's Progress**: Finish Introduction to React.js: Part II !.
+
+**Thoughts** Happy to finish Introduction to React.js: Part II !
+
+**Link(s) to work**
+1. [React - Introduction to React.js: Part II](https://www.codecademy.com/learn/react-102)
+
 ### Day 32: August 14, Sunday
 
 **Today's Progress**: Do some JavaScript's Regular Expressions, Function Constructor and React Forms.
