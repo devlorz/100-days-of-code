@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 34: August 17, Wednesday
+
+**Today's Progress**: Done some JavaScript's Array Method and Algorithms Quiz.
+
+**Thoughts** Feel excited to learn new thing!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Algorithms Quiz](https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string)
+
 ### Day 33: August 15, Monday
 
 **Today's Progress**: Finish Introduction to React.js: Part II !.
