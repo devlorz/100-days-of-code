@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 35: August 18, Thursday
+
+**Today's Progress**: Done some JavaScript Algorithms Quiz.
+
+**Thoughts** Feel excited to learn new Algorithms !
+
+**Link(s) to work**
+1. [FreeCodeCamp - Algorithms Quiz](https://www.freecodecamp.com/challenges/truncate-a-string)
+
 ### Day 34: August 17, Wednesday
 
 **Today's Progress**: Done some JavaScript's Array Method and Algorithms Quiz.
