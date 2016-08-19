@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 36: August 19, Friday
+
+**Today's Progress**: Done some JavaScript Algorithms Quiz.
+
+**Thoughts** Feel excited to learn new Algorithms !
+
+**Link(s) to work**
+1. [FreeCodeCamp - Truncate a string](https://www.freecodecamp.com/challenges/truncate-a-string)
+2. [FreeCodeCamp - Chunky Monkey](https://www.freecodecamp.com/challenges/chunky-monkey)
+3. [FreeCodeCamp - Slasher Flick](https://www.freecodecamp.com/challenges/slasher-flick)
+
 ### Day 35: August 18, Thursday
 
 **Today's Progress**: Done some JavaScript Algorithms Quiz.
