@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 37: August 20, Saturday
+
+**Today's Progress**: Done some JavaScript Algorithms Quiz.
+
+**Thoughts** Feel excited to learn new Algorithms !
+
+**Link(s) to work**
+1. [FreeCodeCamp - Falsy Bouncer](https://www.freecodecamp.com/challenges/falsy-bouncer)
+2. [FreeCodeCamp - Seek and Destroy](https://www.freecodecamp.com/challenges/seek-and-destroy)
+3. [FreeCodeCamp - Where do I belong](https://www.freecodecamp.com/challenges/where-do-i-belong)
+
 ### Day 36: August 19, Friday
 
 **Today's Progress**: Done some JavaScript Algorithms Quiz.
