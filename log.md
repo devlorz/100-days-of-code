@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 38: August 21, Sunday
+
+**Today's Progress**: Do JavaScript Algorithms Quiz and JSON APIs and Ajax.
+
+**Thoughts** Feel excited to learn new Algorithms !
+
+**Link(s) to work**
+1. [FreeCodeCamp - Caesars Cipher](https://www.freecodecamp.com/challenges/caesars-cipher)
+2. [FreeCodeCamp - JSON APIs and Ajax](https://www.freecodecamp.com/challenges/trigger-click-events-with-jquery)
+
 ### Day 37: August 20, Saturday
 
 **Today's Progress**: Done some JavaScript Algorithms Quiz.
