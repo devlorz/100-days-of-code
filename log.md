@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 39: August 22, Monday
+
+**Today's Progress**: Rebuild Tribute Page.
+
+**Thoughts** Feel good to have a new tribute page!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Tribute Page](http://codepen.io/jerryna6/full/dXZRkX/)
+
 ### Day 38: August 21, Sunday
 
 **Today's Progress**: Do JavaScript Algorithms Quiz and JSON APIs and Ajax.
