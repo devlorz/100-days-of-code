@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 40: August 23, Tuesday
+
+**Today's Progress**: Rebuild Portfolio Page.
+
+**Thoughts** Feel good to have a new portfolio page!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Portfolio Page](https://github.com/jerrynai6/portfolio-page)
+
 ### Day 39: August 22, Monday
 
 **Today's Progress**: Rebuild Tribute Page.
