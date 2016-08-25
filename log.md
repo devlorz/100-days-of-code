@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 42: August 25, Thursday
+
+**Today's Progress**: Build a 'Show the Local Weather' Project.
+
+**Thoughts** Feel good to complete project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Show the Local Weather](http://codepen.io/jerryna6/full/kXKpkX/)
+
 ### Day 41: August 24, Wednesday
 
 **Today's Progress**: Build a Random Quote Machine.
