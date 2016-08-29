@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 43: August 29, Monday
+
+**Today's Progress**: Build a Wikipedia Viewer.
+
+**Thoughts** Feel good to complete project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Wikipedia Viewer](http://codepen.io/jerryna6/full/kXOygP/)
+
 ### Day 42: August 25, Thursday
 
 **Today's Progress**: Build a 'Show the Local Weather' Project.
