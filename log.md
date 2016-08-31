@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 45: August 31, Wednesday
+
+**Today's Progress**: Finish a 'Use the Twitchtv JSON API' Project.
+
+**Thoughts** Feel good to finish project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Use the Twitchtv JSON API](http://codepen.io/jerryna6/full/gwYRYE/)
+
 ### Day 44: August 30, Tuesday
 
 **Today's Progress**: Building a 'Use the Twitchtv JSON API' Project.
