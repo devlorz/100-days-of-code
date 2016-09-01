@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 46: September 1, Thursday
+
+**Today's Progress**: Do Some Algorithm Scripting.
+
+**Thoughts** Feel good to figure out algorithms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range)
+2. [FreeCodeCamp - Diff Two Arrays ](https://www.freecodecamp.com/challenges/diff-two-arrays)
+3. [FreeCodeCamp - Roman Numeral Converter ](https://www.freecodecamp.com/challenges/roman-numeral-converter)
+
 ### Day 45: August 31, Wednesday
 
 **Today's Progress**: Finish a 'Use the Twitchtv JSON API' Project.
