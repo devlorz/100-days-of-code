@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 47: September 4, Sunday
+
+**Today's Progress**: Do Some Algorithm Scripting.
+
+**Thoughts** Feel good to figure out algorithms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
+2. [FreeCodeCamp - Search and Replace](https://www.freecodecamp.com/challenges/search-and-replace)
+3. [FreeCodeCamp - Pig Latin](https://www.freecodecamp.com/challenges/pig-latin)
+
 ### Day 46: September 1, Thursday
 
 **Today's Progress**: Do Some Algorithm Scripting.
