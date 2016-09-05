@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 48: September 5, Monday
+
+**Today's Progress**: Do Some Algorithm Scripting.
+
+**Thoughts** Feel good to figure out algorithms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - DNA Pairing](https://www.freecodecamp.com/challenges/dna-pairing)
+2. [FreeCodeCamp - Missing letters](https://www.freecodecamp.com/challenges/missing-letters)
+3. [FreeCodeCamp - Boo who](https://www.freecodecamp.com/challenges/boo-who)
+4. [FreeCodeCamp - Sorted Union](https://www.freecodecamp.com/challenges/sorted-union)
+
 ### Day 47: September 4, Sunday
 
 **Today's Progress**: Do Some Algorithm Scripting.
