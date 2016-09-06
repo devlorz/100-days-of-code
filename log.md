@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 49: September 6, Tuesday
+
+**Today's Progress**: Do Some Algorithm Scripting.
+
+**Thoughts** Feel good to figure out algorithms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Convert HTML Entities](https://www.freecodecamp.com/challenges/convert-html-entities)
+2. [FreeCodeCamp - Spinal Tap Case](https://www.freecodecamp.com/challenges/spinal-tap-case)
+3. [FreeCodeCamp - Sum All Odd Fibonacci Numbers](https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers)
+4. [FreeCodeCamp - Sum All Primes](https://www.freecodecamp.com/challenges/sum-all-primes)
+
 ### Day 48: September 5, Monday
 
 **Today's Progress**: Do Some Algorithm Scripting.
