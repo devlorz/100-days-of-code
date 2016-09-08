@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 50: September 8, Thursday
+
+**Today's Progress**: Do Some Algorithm Scripting.
+
+**Thoughts** Feel good to figure out algorithms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Smallest Common Multiple](https://www.freecodecamp.com/challenges/smallest-common-multiple)
+2. [FreeCodeCamp - Finders Keepers](https://www.freecodecamp.com/challenges/finders-keepers)
+3. [FreeCodeCamp - Drop it](https://www.freecodecamp.com/challenges/drop-it)
+
 ### Day 49: September 6, Tuesday
 
 **Today's Progress**: Do Some Algorithm Scripting.
