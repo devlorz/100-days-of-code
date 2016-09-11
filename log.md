@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 51: September 11, Sunday
+
+**Today's Progress**: Do Some Algorithm Scripting.
+
+**Thoughts** Feel good to figure out algorithms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Steamroller](https://www.freecodecamp.com/challenges/steamroller)
+2. [FreeCodeCamp - Binary Agents](https://www.freecodecamp.com/challenges/binary-agents)
+3. [FreeCodeCamp - Everything Be True](https://www.freecodecamp.com/challenges/everything-be-true)
+
 ### Day 50: September 8, Thursday
 
 **Today's Progress**: Do Some Algorithm Scripting.
