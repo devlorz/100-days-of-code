@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 52: September 12, Monday
+
+**Today's Progress**: Do Some Algorithm Scripting.
+
+**Thoughts** Feel good to figure out algorithms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Arguments Optional](https://www.freecodecamp.com/challenges/arguments-optional)
+2. [FreeCodeCamp - Validate US Telephone Numbers](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers)
+
 ### Day 51: September 11, Sunday
 
 **Today's Progress**: Do Some Algorithm Scripting.
