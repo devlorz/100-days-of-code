@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 53: September 13, Tuesday
+
+**Today's Progress**: Do Some Advance Algorithm Scripting.
+
+**Thoughts** Feel good to figure out algorithms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Symmetric Difference](https://www.freecodecamp.com/challenges/symmetric-difference)
+
 ### Day 52: September 12, Monday
 
 **Today's Progress**: Do Some Algorithm Scripting.
