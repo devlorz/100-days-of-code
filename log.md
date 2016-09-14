@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 54: September 14, Wednesday
+
+**Today's Progress**: Do Some Advance Algorithm Scripting.
+
+**Thoughts** Feel good to figure out algorithms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Exact Change](https://www.freecodecamp.com/challenges/exact-change)
+
 ### Day 53: September 13, Tuesday
 
 **Today's Progress**: Do Some Advance Algorithm Scripting.
