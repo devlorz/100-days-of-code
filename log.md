@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 55: September 15, Thursday
+
+**Today's Progress**: Do Some Advance Algorithm Scripting.
+
+**Thoughts** Feel good to figure out algorithms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Inventory Update](https://www.freecodecamp.com/challenges/inventory-update)
+
 ### Day 54: September 14, Wednesday
 
 **Today's Progress**: Do Some Advance Algorithm Scripting.
