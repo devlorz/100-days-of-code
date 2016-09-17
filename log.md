@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 56: September 17, Saturday
+
+**Today's Progress**: Do Some Advance Algorithm Scripting.
+
+**Thoughts** Feel good to figure out algorithms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - No repeats please](https://www.freecodecamp.com/challenges/no-repeats-please)
+
 ### Day 55: September 15, Thursday
 
 **Today's Progress**: Do Some Advance Algorithm Scripting.
