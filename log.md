@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 57: September 19, Monday
+
+**Today's Progress**: Do Some Advance Algorithm Scripting.
+
+**Thoughts** Feel good to figure out algorithms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Friendly Date Ranges](https://www.freecodecamp.com/challenges/friendly-date-ranges)
+
 ### Day 56: September 17, Saturday
 
 **Today's Progress**: Do Some Advance Algorithm Scripting.
