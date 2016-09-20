@@ -8,7 +8,7 @@
 
 **Link(s) to work**
 1. [FreeCodeCamp - Make a Person](https://www.freecodecamp.com/challenges/make-a-person)
-2. [FreeCodeCamp - Map the Debris](hhttps://www.freecodecamp.com/challenges/map-the-debris)
+2. [FreeCodeCamp - Map the Debris](https://www.freecodecamp.com/challenges/map-the-debris)
 
 ### Day 57: September 19, Monday
 
