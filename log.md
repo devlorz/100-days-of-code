@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 59: September 22, Thursday
+
+**Today's Progress**: Do Some Advance Algorithm Scripting.
+
+**Thoughts** Feel good to figure out algorithms!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Pairwise](https://www.freecodecamp.com/challenges/pairwise)
+
 ### Day 58: September 20, Tuesday
 
 **Today's Progress**: Do Some Advance Algorithm Scripting.
