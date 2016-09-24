@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 60: September 24, Saturday
+
+**Today's Progress**: Do Calculator Project(Design Part).
+
+**Thoughts** Feel good to start new project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Calculator Project](http://codepen.io/jerryna6/full/pEZpGa/)
+
 ### Day 59: September 22, Thursday
 
 **Today's Progress**: Do Some Advance Algorithm Scripting.
