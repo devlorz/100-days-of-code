@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 61: September 29, Thursday
+
+**Today's Progress**: Complete Calculator Project.
+
+**Thoughts** Feel good to complete project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Calculator Project](http://codepen.io/jerryna6/full/pEZpGa/)
+
 ### Day 60: September 24, Saturday
 
 **Today's Progress**: Do Calculator Project(Design Part).
