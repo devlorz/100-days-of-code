@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 62: October 4, Monday
+
+**Today's Progress**: Start Pomodoro Clock Project!
+
+**Thoughts** Feel good to start project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Pomodoro Clock](http://codepen.io/jerryna6/full/kkGwLA/)
+
 ### Day 61: September 29, Thursday
 
 **Today's Progress**: Complete Calculator Project.
