@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 62: October 4, Monday
+### Day 63: October 4, Tuesday
+
+**Today's Progress**: Insert timer logic!
+
+**Thoughts** Feel good to figure out countdown timer!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Pomodoro Clock](http://codepen.io/jerryna6/full/kkGwLA/)
+
+### Day 62: October 3, Monday
 
 **Today's Progress**: Start Pomodoro Clock Project!
 
