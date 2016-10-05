@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 64: October 5, Wednesday
+
+**Today's Progress**: Finish Pomodoro Clock Project!
+
+**Thoughts** Feel good to finish project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Pomodoro Clock](http://codepen.io/jerryna6/full/kkGwLA/)
+
 ### Day 63: October 4, Tuesday
 
 **Today's Progress**: Insert timer logic!
