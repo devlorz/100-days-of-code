@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 65: October 11, Tuesday
+
+**Today's Progress**: Start Tic Tac Toe Project!
+
+**Thoughts** Feel good to start project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Tic Tac Toe Game](http://codepen.io/jerryna6/full/QKmbwk/)
+
 ### Day 64: October 5, Wednesday
 
 **Today's Progress**: Finish Pomodoro Clock Project!
