@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 66: October 13, Thursday
+
+**Today's Progress**: Tic Tac Toe Project - Add click and reset event !
+
+**Thoughts** Feel good to implement project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Tic Tac Toe Game](http://codepen.io/jerryna6/full/QKmbwk/)
+
 ### Day 65: October 11, Tuesday
 
 **Today's Progress**: Start Tic Tac Toe Project!
