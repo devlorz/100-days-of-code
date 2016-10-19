@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 68: October 19, Wednesday
+
+**Today's Progress**: Tic Tac Toe Project - Add first turn ai and validate win function !
+
+**Thoughts** Feel good to implement project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Tic Tac Toe Game](http://codepen.io/jerryna6/full/QKmbwk/)
+
 ### Day 67: October 16, Sunday
 
 **Today's Progress**: Tic Tac Toe Project - Add modal and validate click !
