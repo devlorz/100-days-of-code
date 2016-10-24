@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 70: October 24, Monday
+
+**Today's Progress**: Tic Tac Toe Project - add more ai move !
+
+**Thoughts** Feel good to implement project!
+
 ### Day 69: October 21, Friday
 
 **Today's Progress**: Tic Tac Toe Project - complete validate winning and add more ai move !
