@@ -6,11 +6,17 @@
 
 **Thoughts** Feel good to implement project!
 
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Tic Tac Toe Game](http://codepen.io/jerryna6/full/QKmbwk/)
+
 ### Day 69: October 21, Friday
 
 **Today's Progress**: Tic Tac Toe Project - complete validate winning and add more ai move !
 
 **Thoughts** Feel good to implement project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Tic Tac Toe Game](http://codepen.io/jerryna6/full/QKmbwk/)
 
 ### Day 68: October 19, Wednesday
 
