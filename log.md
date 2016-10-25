@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 71: October 25, Tuesday
+
+**Today's Progress**: Finish Tic Tac Toe Project!
+
+**Thoughts** Feel good to finish project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Tic Tac Toe Game](http://codepen.io/jerryna6/full/QKmbwk/)
+
 ### Day 70: October 24, Monday
 
 **Today's Progress**: Tic Tac Toe Project - add more ai move !
