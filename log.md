@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 72: November 3, Thursday
+
+**Today's Progress**: Start Simon Game Project!
+
+**Thoughts** Feel good to start project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Simon Game](http://codepen.io/jerryna6/full/QKeBXo/)
+
 ### Day 71: October 25, Tuesday
 
 **Today's Progress**: Finish Tic Tac Toe Project!
