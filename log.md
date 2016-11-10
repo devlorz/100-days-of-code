@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 74: November 10, Wednesday
+
+**Today's Progress**: Simon Game Project : Add other actions to buttons
+
+**Thoughts** Feel good to implement project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Simon Game](http://codepen.io/jerryna6/full/QKeBXo/)
+
 ### Day 73: November 5, Saturday
 
 **Today's Progress**: Simon Game Project : Add actions to switch button
