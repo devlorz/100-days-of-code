@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 75: November 15, Monday
+
+**Today's Progress**: Simon Game Project : Add sound to buttons
+
+**Thoughts** Feel good to implement project!
+
+**Link(s) to work**
+1. [FreeCodeCamp - Build a Simon Game](http://codepen.io/jerryna6/full/QKeBXo/)
+
 ### Day 74: November 10, Wednesday
 
 **Today's Progress**: Simon Game Project : Add other actions to buttons
