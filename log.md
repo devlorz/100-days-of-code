@@ -2,7 +2,7 @@
 
 ### Day 1: January 03, Tuesday
 **Today's Progress** Some Markdown with help from the official site: 
-(Daring Fireball)[https://daringfireball.net/projects/markdown/]
+[Daring Fireball](https://daringfireball.net/projects/markdown/)
 **Thoughts**This is my third start of 100 Days of Code.  I did the first 100
 and carried on to do another 50 Days.  During that time I did FreeCodeCamp, SoloLearn
 Enki ... And although I managed to code at  least an hour each day I did not
