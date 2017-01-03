@@ -1,10 +1,15 @@
 # 100 Days Code - Log 
 
 ### Day 1: January 03, Tuesday
-**Today's Progress** Some Markdown with help from the official site: [Daring Fireball]   (https://daringfireball.net/projects/markdown/)
-<!-- # 100 Days Of Code - Log
-
-### Day 22: July 31, Sunday
+**Today's Progress** Some Markdown with help from the official site: 
+(Daring Fireball)[https://daringfireball.net/projects/markdown/]
+**Thoughts**This is my third start of 100 Days of Code.  I did the first 100
+and carried on to do another 50 Days.  During that time I did FreeCodeCamp, SoloLearn
+Enki ... And although I managed to code at  least an hour each day I did not
+get around to keeping this log on Github. So having spent time regularly visiting 
+Through December then halfway through finding (#Commitmas-3 Reurn of Commitmas)[https://github.com/gipsi/commitmas-3-return-of-commitmas/blob/master/README.md]
+**Link(s) to work** My Github Page - work in progress.
+<!-- ### Day 22: July 31, Sunday
 
 **Today's Progress**: Done some JavaScript and React Component.
 
@@ -18,7 +23,7 @@
 
 **Today's Progress**: Done some JavaScript and React's JSX and React Component.
 
-**Thoughts** Feel excited to learn new things!
+**Thoughts** Feel excited to learn ne
 
 **Link(s) to work**
 1. [FreeCodeCamp - JavaScript](https://www.freecodecamp.com/challenges/use-bracket-notation-to-find-the-nth-character-in-a-string)
