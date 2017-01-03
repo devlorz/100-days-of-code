@@ -1,4 +1,8 @@
-# 100 Days Of Code - Log
+# 100 Days Code - Log 
+
+### Day 1: January 03, Tuesday
+**Today's Progress** Some Markdown with help from the official site: [Daring Fireball]   (https://daringfireball.net/projects/markdown/)
+<!-- # 100 Days Of Code - Log
 
 ### Day 22: July 31, Sunday
 
@@ -59,8 +63,7 @@
 
 **Link(s) to work**
 1. [Python - Classes](https://www.codecademy.com/en/courses/python-intermediate-en-egNXj/1/5?curriculum_id=4f89dab3d788890003000096)
-2. [React - create_react_app](https://github.com/jerrynai6/create_react_app)
-
+2. [React - create_react_app](https://github.com/jerrynai6/create_react_app) -->
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
