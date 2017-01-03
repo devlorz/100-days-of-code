@@ -7,8 +7,8 @@
 and carried on to do another 50 Days.  During that time I did FreeCodeCamp, SoloLearn
 Enki ... And although I managed to code at  least an hour each day I did not
 get around to keeping this log on Github. So having spent time regularly visiting 
-Through December then halfway through finding (#Commitmas-3 Reurn of Commitmas)[https://github.com/gipsi/commitmas-3-return-of-commitmas/blob/master/README.md]
-**Link(s) to work** My Github Page - work in progress.
+Through December then halfway through finding [#Commitmas-3 Reurn of Commitmas](https://github.com/gipsi/commitmas-3-return-of-commitmas/blob/master/README.md) with a great selection of videos and podcasts to help stay on track.
+**Link(s) to work** My Github Page: https://gipsi.github.io work in progress.
 <!-- ### Day 22: July 31, Sunday
 
 **Today's Progress**: Done some JavaScript and React Component.
