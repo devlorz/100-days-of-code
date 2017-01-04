@@ -9,6 +9,12 @@ Enki ... And although I managed to code at  least an hour each day I did not
 get around to keeping this log on Github. So having spent time regularly visiting 
 Through December then halfway through finding [#Commitmas-3 Reurn of Commitmas](https://github.com/gipsi/commitmas-3-return-of-commitmas/blob/master/README.md) with a great selection of videos and podcasts to help stay on track, here goes!
 **Link(s) to work** My Github Page: https://gipsi.github.io work in progress.
+### Day 2: January 04, Wednesday
+**Today's Progress** An Enki workout - Javascript Core
+**Thoughts** About habits, routines and and commitments.
+**Link(s) to work** Signed up to a reminder list from Enki [“Make Open Source your 2017 Resolution”
+@MathieuDutour](https://blog.enki.com/make-open-source-your-2017-resolution-ec1a4569d43)
+
 <!-- ### Day 22: July 31, Sunday
 
 **Today's Progress**: Done some JavaScript and React Component.
