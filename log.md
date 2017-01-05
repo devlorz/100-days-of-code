@@ -15,6 +15,12 @@ Through December then halfway through finding [#Commitmas-3 Reurn of Commitmas](
 **Link(s) to work** Signed up to a reminder list from Enki [“Make Open Source your 2017 Resolution”
 @MathieuDutour](https://blog.enki.com/make-open-source-your-2017-resolution-ec1a4569d43)
 
+### Day  3: January 05, Thursday
+**Today's progress**
+**Thoughts**
+figuring out if Its poss to switch off Jekyll theme to use ony html/css, reversing (bullet list) so write at the top, and put in chapters ( blog style)
+**Link(s)to work** https://gipsi.github.io
+
 <!-- ### Day 22: July 31, Sunday
 
 **Today's Progress**: Done some JavaScript and React Component.
