@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 ## 2017 Restart 100 Days of Code
+### Day 2: January 5, Thursday
+
+**Today's Progress**: Add second fragment 
+
+**Thoughts** Feel good to continue coding!
+
+**Link(s) to work**
+1. [Android - MVC Project](https://github.com/jerrynai6/MVCStructure)
+
 ### Day 1: January 4, Wednesday
 
 **Today's Progress**: Start MVC Android Project!
@@ -8,7 +17,7 @@
 **Thoughts** Feel good to restart another 100 Days of Code
 
 **Link(s) to work**
-1. [Android - MVC Project (Add Fragments to Project)](https://github.com/jerrynai6/MVCStructure)
+1. [Android - MVC Project](https://github.com/jerrynai6/MVCStructure)
 
 ## 2016 100 Days of Code End Here
 ### Day 76: November 16, Wednesday
