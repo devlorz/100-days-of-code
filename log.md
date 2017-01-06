@@ -26,7 +26,10 @@ figuring out if Its poss to switch off Jekyll theme to use ony html/css, reversi
 
 ** Thoughts** All on Android phone, battery too low to explain.
 
-** Link(s)to work** https://gipsi.github.io<!-- ### Day 22: July 31, Sunday
+** Link(s)to work** https://gipsi.github.io
+
+
+<!-- ### Day 22: July 31, Sunday
 
 **Today's Progress**: Done some JavaScript and React Component.
 
