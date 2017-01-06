@@ -20,8 +20,13 @@ Through December then halfway through finding [#Commitmas-3 Reurn of Commitmas](
 **Thoughts**
 figuring out if Its poss to switch off Jekyll theme to use ony html/css, reversing (bullet list) so write at the top, and put in chapters ( blog style)
 **Link(s)to work** https://gipsi.github.io
+## Day  4: January 06, Friday
 
-<!-- ### Day 22: July 31, Sunday
+** Today's progress** Tidied up GitHub blog page
+
+** Thoughts** All on Android phone, battery too low to explain.
+
+** Link(s)to work** https://gipsi.github.io<!-- ### Day 22: July 31, Sunday
 
 **Today's Progress**: Done some JavaScript and React Component.
 
