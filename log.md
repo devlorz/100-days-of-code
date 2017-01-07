@@ -3,6 +3,42 @@
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
 
+
+### Day 5: 2017-01-07
+
+**Today's Progress:** More work on this page using Google Chrome, Windows 7 Desktop and Atom editor.
+
+This :
+
+> ## Template
+
+> ### Day : 2017-
+
+> **Today's Progress:**
+
+> **Thoughts:**
+
+> **Link to work:**
+
+Made by [Thoragio](https://github.com/thoragio/100-days-of-code/blob/master/README.md)
+helped a lot - thank you!
+
+**Thoughts:** Looking at 100 Days of code repo [suggested resources](https://github.com/Kallaway/100-days-of-code/blob/master/resources.md)
+I'd also recommend:
+* ["The Meditations" by Marcus Aurelius](https://librivox.org/the-meditations-of-marcus-aurelius/)  
+I'm currently listening to the audiobook on Librivox.
+
+* [The Stoic: 9 Principles to Help You Keep Calm in Chaos]
+(http://99u.com/articles/24401/a-makers-guidebook-9-stoic-principles-to-nurture-your-life-and-work)
+
+Is an outline of the principles of Stoicism which he practiced.
+
+> "The goal of Stoicism is to attain inner peace by overcoming adversity"
+
+**Link to work:** This Page.
+
+
+
 ### Day 4: 2017-01-06
 
 **Today's Progress:** Tidied up GitHub blog page.
@@ -51,6 +87,8 @@ with a great selection of videos and podcasts to help stay on track, here goes!
 
 
 ------------------------------------------------------------------------------------------------------------------------
+
+
 ## Template
 
 ### Day : 2017-
