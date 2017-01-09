@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 ## 2017 Restart 100 Days of Code
+
+### Day 5: January 9, Monday
+
+**Today's Progress**: Start new project LiveAt500px!
+
+**Thoughts** Feel excited to start new project!
+
+**Link(s) to work**
+1. [Android - LiveAt500px](https://github.com/jerrynai6/LiveAt500px)
+
 ### Day 4: January 8, Sunday
 
 **Today's Progress**: Add Crashlytics to project!
