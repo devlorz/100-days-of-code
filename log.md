@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 ## 2017 Restart 100 Days of Code
+### Day 4: January 8, Sunday
+
+**Today's Progress**: Add Crashlytics to project!
+
+**Thoughts** Feel good to continue coding!
+
+**Link(s) to work**
+1. [Android - MVC Project](https://github.com/jerrynai6/MVCStructure)
+
 ### Day 3: January 6, Friday
 
 **Today's Progress**: Add second fragment button and fragment transition
