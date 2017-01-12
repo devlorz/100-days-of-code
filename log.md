@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 7: January 12, Thursday
+
+**Today's Progress**: Add PhotoListItem CustomViewGroup !
+
+**Thoughts** Feel excited to implement project!
+
+**Link(s) to work**
+1. [Android - LiveAt500px](https://github.com/jerrynai6/LiveAt500px)
+
 ### Day 6: January 11, Wednesday
 
 **Today's Progress**: Add DrawerMenu, Hamburger Icon, Toolbar !
