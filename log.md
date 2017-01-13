@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 8: January 13, Friday
+
+**Today's Progress**: Add listview and adapter !
+
+**Thoughts** Feel excited to implement project!
+
+**Link(s) to work**
+1. [Android - LiveAt500px](https://github.com/jerrynai6/LiveAt500px)
+
 ### Day 7: January 12, Thursday
 
 **Today's Progress**: Add PhotoListItem CustomViewGroup !
