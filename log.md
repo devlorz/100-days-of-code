@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 9: January 14, Saturday
+
+**Today's Progress**: Add Multiple Type ListView Support !
+
+**Thoughts** Feel excited to implement project!
+
+**Link(s) to work**
+1. [Android - LiveAt500px](https://github.com/jerrynai6/LiveAt500px)
+
 ### Day 8: January 13, Friday
 
 **Today's Progress**: Add listview and adapter !
