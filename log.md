@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 10: January 16, Monday
+
+**Today's Progress**: Add Retrofit to project !
+
+**Thoughts** Feel excited to implement project!
+
+**Link(s) to work**
+1. [Android - LiveAt500px](https://github.com/jerrynai6/LiveAt500px)
+
 ### Day 9: January 14, Saturday
 
 **Today's Progress**: Add Multiple Type ListView Support !
