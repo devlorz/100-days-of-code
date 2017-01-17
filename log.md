@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 11: January 17, Tuesday
+
+**Today's Progress**: Add connection to API !
+
+**Thoughts** Feel excited to implement project!
+
+**Link(s) to work**
+1. [Android - LiveAt500px](https://github.com/jerrynai6/LiveAt500px)
+
 ### Day 10: January 16, Monday
 
 **Today's Progress**: Add Retrofit to project !
