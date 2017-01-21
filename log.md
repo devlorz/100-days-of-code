@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 14: January 21, Saturday
+
+**Today's Progress**: Modify pull to refresh !
+
+**Thoughts** Feel excited to implement project!
+
+**Link(s) to work**
+1. [Android - LiveAt500px](https://github.com/jerrynai6/LiveAt500px)
+
 ### Day 13: January 19, Thursday
 
 **Today's Progress**: Add Glide for image loading and Add animation to ListView!
