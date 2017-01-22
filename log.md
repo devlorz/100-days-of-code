@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 15: January 22, Sunday
+
+**Today's Progress**: Improve pull-to-refresh UX !
+
+**Thoughts** Feel excited to implement project!
+
+**Link(s) to work**
+1. [Android - LiveAt500px](https://github.com/jerrynai6/LiveAt500px)
+
 ### Day 14: January 21, Saturday
 
 **Today's Progress**: Modify pull to refresh !
