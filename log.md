@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 18: January 25, Wednesday
+
+**Today's Progress**: Add ListView's click state, add MoreInfo Activity & Fragment, add up button !
+
+**Thoughts** Feel excited to implement project!
+
+**Link(s) to work**
+1. [Android - LiveAt500px](https://github.com/jerrynai6/LiveAt500px)
+
 ### Day 17: January 24, Tuesday
 
 **Today's Progress**: Handle fragment lifecycle and save cache data !
