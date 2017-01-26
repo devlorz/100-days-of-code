@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 19: January 26, Thursday
+
+**Today's Progress**: Finish Live @ 500px app !
+
+**Thoughts** Feel good to finish the app!
+
+**Link(s) to work**
+1. [Android - LiveAt500px](https://github.com/jerrynai6/LiveAt500px)
+
 ### Day 18: January 25, Wednesday
 
 **Today's Progress**: Add ListView's click state, add MoreInfo Activity & Fragment, add up button !
