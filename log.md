@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 20: January 28, Saturday
+
+**Today's Progress**: Learning Android's Threading !
+
+**Thoughts** Feel good to start learning new thing !
+
+**Link(s) to work**
+1. [Android - LabThread](https://github.com/jerrynai6/android-thread-lab)
+
 ### Day 19: January 26, Thursday
 
 **Today's Progress**: Finish Live @ 500px app !
