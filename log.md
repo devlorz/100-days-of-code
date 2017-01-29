@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 21: January 29, Sunday
+
+**Today's Progress**: Learning Testing on Android !
+
+**Thoughts** Feel good to start learning new thing !
+
+**Link(s) to work**
+1. [Android - Android Testing](https://github.com/jerrynai6/android-testing)
+
 ### Day 20: January 28, Saturday
 
 **Today's Progress**: Learning Android's Threading !
