@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 23: January 31, Tuesday
+
+**Today's Progress**: Building Eppresso-Intents & Eppresso-Contrib Test !
+
+**Thoughts** Feel good to learn android's test framework !
+
+**Link(s) to work**
+1. [Android - Android Testing](https://github.com/jerrynai6/android-testing)
+
 ### Day 22: January 30, Monday
 
 **Today's Progress**: Learning Unit Testing and UI tests !
