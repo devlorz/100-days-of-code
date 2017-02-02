@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 24: February 2, Thursday
+
+**Today's Progress**: Start building firebase app !
+
+**Thoughts** Feel good to start learning firebase !
+
+**Link(s) to work**
+1. [Android - testFirebase](https://github.com/jerrynai6/testFirebase)
+
 ### Day 23: January 31, Tuesday
 
 **Today's Progress**: Building Eppresso-Intents & Eppresso-Contrib Test !
