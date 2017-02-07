@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 27: February 6, Monday
+
+**Today's Progress**: Implement log in with facebook !
+
+**Thoughts** Feel frustrated at first when trying to install facebook sdk. I end up by adding facebook dependency instead and facebook authen work very well!
+
+**Link(s) to work**
+1. [Android - testFirebase](https://github.com/jerrynai6/testFirebase)
+
 ### Day 26: February 4, Saturday
 
 **Today's Progress**: Finish create account with email !
