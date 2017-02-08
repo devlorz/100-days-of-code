@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 28: February 8, Wednesday
+
+**Today's Progress**: Add Google Sign In !
+
+**Thoughts** Feel lost at first but finally make it work!
+
+**Link(s) to work**
+1. [Android - testFirebase](https://github.com/jerrynai6/testFirebase)
+
 ### Day 27: February 6, Monday
 
 **Today's Progress**: Implement log in with facebook !
