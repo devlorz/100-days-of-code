@@ -2,6 +2,16 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 29: February 10, Friday
+
+**Today's Progress**: Learning about Dagger2 and MVP !
+
+**Thoughts** Not understand at first time but when trying to figure it out, becoming more understand about dependency injection and model-view-presenter !
+
+**Link(s) to work**
+1. [Android - DaggerExample](https://github.com/jerrynai6/DaggerExample)
+2. [Android - SimpleMVP](https://github.com/jerrynai6/SimpleMVP)
+
 ### Day 28: February 8, Wednesday
 
 **Today's Progress**: Add Google Sign In !
