@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 30: February 12, Sunday
+
+**Today's Progress**: Add dependency injection to project !
+
+**Thoughts** Get frustrated by some build errors about adding component by dagger2 but finally figure it out !
+
+**Link(s) to work**
+1. [Android - SimpleMVP](https://github.com/jerrynai6/SimpleMVP)
+
 ### Day 29: February 10, Friday
 
 **Today's Progress**: Learning about Dagger2 and MVP !
