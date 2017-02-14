@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 32: February 14, Tuesday
+
+**Today's Progress**: Add ChromeCustomTabs and other dependencies !
+
+**Thoughts** Try to use many useful libraries !
+
+**Link(s) to work**
+1. [Android - RSSReader](https://github.com/jerrynai6/RSSReader)
+
 ### Day 31: February 13, Monday
 
 **Today's Progress**: Building Simple RSS Reader App !
