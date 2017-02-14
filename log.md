@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 31: February 13, Monday
+
+**Today's Progress**: Building Simple RSS Reader App !
+
+**Thoughts** Feel good to start building simple MVP App to learning more about MVP concept !
+
+**Link(s) to work**
+1. [Android - RSSReader](https://github.com/jerrynai6/RSSReader)
+
 ### Day 30: February 12, Sunday
 
 **Today's Progress**: Add dependency injection to project !
