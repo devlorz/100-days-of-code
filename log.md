@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 33: February 15, Wednesday
+
+**Today's Progress**: Add RssPresenter and RssModel !
+
+**Thoughts** Try to finish the Rss Fragment but can't !
+
+**Link(s) to work**
+1. [Android - RSSReader](https://github.com/jerrynai6/RSSReader)
+
 ### Day 32: February 14, Tuesday
 
 **Today's Progress**: Add ChromeCustomTabs and other dependencies !
