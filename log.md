@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 34: February 16, Thursday
+
+**Today's Progress**: Add RssFragment !
+
+**Thoughts** Finally finish implementing RssFragment. Feel happy !
+
+**Link(s) to work**
+1. [Android - RSSReader](https://github.com/jerrynai6/RSSReader)
+
 ### Day 33: February 15, Wednesday
 
 **Today's Progress**: Add RssPresenter and RssModel !
