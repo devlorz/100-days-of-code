@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 35: February 18, Saturday
+
+**Today's Progress**: Finish implementing MainActivity !
+
+**Thoughts** Finally finish implementing MainActivity. Feel happy !
+
+**Link(s) to work**
+1. [Android - RSSReader](https://github.com/jerrynai6/RSSReader)
+
 ### Day 34: February 16, Thursday
 
 **Today's Progress**: Add RssFragment !
