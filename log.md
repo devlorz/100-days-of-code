@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 36: February 19, Sunday
+
+**Today's Progress**: Fix rss-list not show's error !
+
+**Thoughts** Finally make the app work. Good to see that !
+
+**Link(s) to work**
+1. [Android - RSSReader](https://github.com/jerrynai6/RSSReader)
+
 ### Day 35: February 18, Saturday
 
 **Today's Progress**: Finish implementing MainActivity !
