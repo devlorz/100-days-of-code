@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 37: February 21, Tuesday
+
+**Today's Progress**: Start new project - Money Simple !
+
+**Thoughts** Add and implement the base class !
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 36: February 19, Sunday
 
 **Today's Progress**: Fix rss-list not show's error !
