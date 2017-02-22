@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 38: February 22, Wednesday
+
+**Today's Progress**: Add Toolbar TabLayout and more !
+
+**Thoughts** Feel good to see project looks good !
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 37: February 21, Tuesday
 
 **Today's Progress**: Start new project - Money Simple !
