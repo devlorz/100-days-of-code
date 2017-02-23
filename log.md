@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 39: February 23, Thursday
+
+**Today's Progress**: Add MoneyListFragment and more !
+
+**Thoughts** Feel good to implement project !
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 38: February 22, Wednesday
 
 **Today's Progress**: Add Toolbar TabLayout and more !
