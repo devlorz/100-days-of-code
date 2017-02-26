@@ -2,13 +2,22 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 41: February 26, Sunday
+
+**Today's Progress**: Create AddTransaction menu and more !
+
+**Thoughts** Feel good to have project looking good as expected.
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 40: February 25, Saturday
 
 **Today's Progress**: Add MoneyListItem and more !
 
 **Thoughts** Got stuck with some problems but find a way to fix it!
 1.ViewPager not work well with CoordinatorLayout, result in weird ViewPager's height problem. Fix it by wrap it with LinearLayout.
-2.Nested ListView Problem. Inside ListView has weird height. Fix it by [NotScrollableListView](https://gist.github.com/jerrynai6/52d41f415b48d4fc1e067e0977865eb9). (Thanks to lobzik from StackOverflow)
+2.Nested ListView Problem. Inside ListView has weird height. Fix it by [NotScrollableListView](https://gist.github.com/devlorz/52d41f415b48d4fc1e067e0977865eb9). (Thanks to lobzik from StackOverflow)
 
 **Link(s) to work**
 1. [Android - Money Simple](#)
