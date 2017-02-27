@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 42: February 27, Monday
+
+**Today's Progress**: Add done button and DatePicker !
+
+**Thoughts** Feel completely done enough of view parts. Will start to do model parts tomorrow !
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 41: February 26, Sunday
 
 **Today's Progress**: Create AddTransaction menu and more !
