@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 43: February 28, Tuesday
+
+**Today's Progress**: Add MainActivity Test !
+
+**Thoughts** Got stuck by Robolectric test. Will try Espresso next time.
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 42: February 27, Monday
 
 **Today's Progress**: Add done button and DatePicker !
