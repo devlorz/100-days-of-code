@@ -2,6 +2,18 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 44: February 2, Thursday
+
+**Today's Progress**: Add View Test with Espresso and Robolectric !
+
+**Thoughts** Finally make Robolectric and Espresso Test work!. These are some causes and solutions.
+1. Forget to add constants = BuildConfig.class at @Config notation in Robolectric's test. 
+2. Add ShadowMultiDex class to fix MultiDex problem.
+3. In fragments, there are many buttons with the same id so fix it by using allOf(withId(R.id.buttonId), isDisplayed()) to get the display button id.
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 43: February 28, Tuesday
 
 **Today's Progress**: Add MainActivity Test !
