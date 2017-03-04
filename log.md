@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 45: February 3, Friday
+
+**Today's Progress**: Add more tests !
+
+**Thoughts** Try more tests by using Robolectric.
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 44: February 2, Thursday
 
 **Today's Progress**: Add View Test with Espresso and Robolectric !
