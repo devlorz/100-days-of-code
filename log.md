@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 46: February 4, Saturday
+
+**Today's Progress**: Write some tests for RssReader project !
+
+**Thoughts** Learn more about writing test for making it more familiarly
+
+**Link(s) to work**
+1. [Android - RSSReader](https://github.com/devlorz/RSSReader)
+
 ### Day 45: February 3, Friday
 
 **Today's Progress**: Add more tests !
