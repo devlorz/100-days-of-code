@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 47: February 6, Monday
+
+**Today's Progress**: Write MoneyListFragment and MoneyListPresenter tests !
+
+**Thoughts** Feel more familiar with writing unit test!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 46: February 4, Saturday
 
 **Today's Progress**: Write some tests for RssReader project !
