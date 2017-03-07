@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 48: February 7, Tuesday
+
+**Today's Progress**: Add DataManager!
+
+**Thoughts** Feel excited to implement model layer!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 47: February 6, Monday
 
 **Today's Progress**: Write MoneyListFragment and MoneyListPresenter tests !
