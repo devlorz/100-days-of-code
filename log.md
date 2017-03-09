@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 49: February 8, Wednesday
+
+**Today's Progress**: Adding more model classes and tests!
+
+**Thoughts** Feel excited to implement model layer!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 48: February 7, Tuesday
 
 **Today's Progress**: Add DataManager!
