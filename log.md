@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 51: February 10, Friday
+
+**Today's Progress**: Implement saving TransactionInfo and refactor code!
+
+**Thoughts** Feel excited to implement model layer!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 50: February 9, Thursday
 
 **Today's Progress**: Implement reading TransactionInfo from database!
