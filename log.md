@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 52: February 11, Saturday
+
+**Today's Progress**: Add save TransactionInfo to AddTransactionFragment
+
+**Thoughts** Got stuck when testing presenter with rxjava code. Will solve tomorrow !
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 51: February 10, Friday
 
 **Today's Progress**: Implement saving TransactionInfo and refactor code!
