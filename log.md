@@ -2,6 +2,24 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 54: February 13, Monday
+
+**Today's Progress**: Fix MoneyListFragment to show all data
+
+**Thoughts** Will fix MoneyListFragment to show data immediately !
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
+### Day 53: February 12, Sunday
+
+**Today's Progress**: Fix AddTransactionPresenterTest to make the test work
+
+**Thoughts** Finally make the test work !
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 52: February 11, Saturday
 
 **Today's Progress**: Add save TransactionInfo to AddTransactionFragment
