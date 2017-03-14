@@ -2,6 +2,18 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 55: February 14, Tuesday
+
+**Today's Progress**: 
+- Fix MoneyListFragment to reload new data
+- Add no transaction text
+- Edit AddTransaction Layout and DatePicker
+
+**Thoughts** Fix reload data problem but confront another problem. Try to fix it tomorrow!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 54: February 13, Monday
 
 **Today's Progress**: Fix MoneyListFragment to show all data
