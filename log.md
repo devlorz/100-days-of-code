@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 56: February 15, Wednesday
+
+**Today's Progress**: Fix TransactionInfo to group by date
+
+**Thoughts** Fix TransactionInfo to show by date problem but found another problem, TransactionInfo don't sort by date in ListView. Will fix it tomorrow!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 55: February 14, Tuesday
 
 **Today's Progress**: 
