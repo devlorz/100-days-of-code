@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 57: February 16, Thursday
+
+**Today's Progress**: Fix TransactionInfo's order and TransactionInfo's total amount
+
+**Thoughts** Fix order problem but more improvements to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 56: February 15, Wednesday
 
 **Today's Progress**: Fix TransactionInfo to group by date
