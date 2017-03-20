@@ -2,7 +2,16 @@
 
 ## 2017 Restart 100 Days of Code
 
-### Day 58-59: February 18-19, Saturday & Sunday
+### Day 60: March 20, Monday
+
+**Today's Progress**: Fix some query
+
+**Thoughts** Finally make greendao to work!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
+### Day 58-59: March 18-19, Saturday & Sunday
 
 **Today's Progress**: Fix TransactionInfo to show by month
 
@@ -11,7 +20,7 @@
 **Link(s) to work**
 1. [Android - Money Simple](#)
 
-### Day 57: February 16, Thursday
+### Day 57: March 16, Thursday
 
 **Today's Progress**: Fix TransactionInfo's order and TransactionInfo's total amount
 
@@ -20,7 +29,7 @@
 **Link(s) to work**
 1. [Android - Money Simple](#)
 
-### Day 56: February 15, Wednesday
+### Day 56: March 15, Wednesday
 
 **Today's Progress**: Fix TransactionInfo to group by date
 
@@ -29,7 +38,7 @@
 **Link(s) to work**
 1. [Android - Money Simple](#)
 
-### Day 55: February 14, Tuesday
+### Day 55: March 14, Tuesday
 
 **Today's Progress**: 
 - Fix MoneyListFragment to reload new data
@@ -41,7 +50,7 @@
 **Link(s) to work**
 1. [Android - Money Simple](#)
 
-### Day 54: February 13, Monday
+### Day 54: March 13, Monday
 
 **Today's Progress**: Fix MoneyListFragment to show all data
 
@@ -50,7 +59,7 @@
 **Link(s) to work**
 1. [Android - Money Simple](#)
 
-### Day 53: February 12, Sunday
+### Day 53: March 12, Sunday
 
 **Today's Progress**: Fix AddTransactionPresenterTest to make the test work
 
@@ -59,7 +68,7 @@
 **Link(s) to work**
 1. [Android - Money Simple](#)
 
-### Day 52: February 11, Saturday
+### Day 52: March 11, Saturday
 
 **Today's Progress**: Add save TransactionInfo to AddTransactionFragment
 
@@ -68,7 +77,7 @@
 **Link(s) to work**
 1. [Android - Money Simple](#)
 
-### Day 51: February 10, Friday
+### Day 51: March 10, Friday
 
 **Today's Progress**: Implement saving TransactionInfo and refactor code!
 
@@ -77,7 +86,7 @@
 **Link(s) to work**
 1. [Android - Money Simple](#)
 
-### Day 50: February 9, Thursday
+### Day 50: March 9, Thursday
 
 **Today's Progress**: Implement reading TransactionInfo from database!
 
@@ -86,7 +95,7 @@
 **Link(s) to work**
 1. [Android - Money Simple](#)
 
-### Day 49: February 8, Wednesday
+### Day 49: March 8, Wednesday
 
 **Today's Progress**: Adding more model classes and tests!
 
@@ -95,7 +104,7 @@
 **Link(s) to work**
 1. [Android - Money Simple](#)
 
-### Day 48: February 7, Tuesday
+### Day 48: March 7, Tuesday
 
 **Today's Progress**: Add DataManager!
 
@@ -104,7 +113,7 @@
 **Link(s) to work**
 1. [Android - Money Simple](#)
 
-### Day 47: February 6, Monday
+### Day 47: March 6, Monday
 
 **Today's Progress**: Write MoneyListFragment and MoneyListPresenter tests !
 
@@ -113,7 +122,7 @@
 **Link(s) to work**
 1. [Android - Money Simple](#)
 
-### Day 46: February 4, Saturday
+### Day 46: March 4, Saturday
 
 **Today's Progress**: Write some tests for RssReader project !
 
@@ -122,7 +131,7 @@
 **Link(s) to work**
 1. [Android - RSSReader](https://github.com/devlorz/RSSReader)
 
-### Day 45: February 3, Friday
+### Day 45: March 3, Friday
 
 **Today's Progress**: Add more tests !
 
@@ -131,7 +140,7 @@
 **Link(s) to work**
 1. [Android - Money Simple](#)
 
-### Day 44: February 2, Thursday
+### Day 44: March 2, Thursday
 
 **Today's Progress**: Add View Test with Espresso and Robolectric !
 
