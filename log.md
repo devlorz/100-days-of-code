@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 58-59: February 18-19, Saturday & Sunday
+
+**Today's Progress**: Fix TransactionInfo to show by month
+
+**Thoughts** A lot of improments to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 57: February 16, Thursday
 
 **Today's Progress**: Fix TransactionInfo's order and TransactionInfo's total amount
