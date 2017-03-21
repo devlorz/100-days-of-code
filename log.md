@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 61: March 21, Tuesday
+
+**Today's Progress**: Set TransactionSummary Inflow and Outflow
+
+**Thoughts** More works to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 60: March 20, Monday
 
 **Today's Progress**: Fix some query
