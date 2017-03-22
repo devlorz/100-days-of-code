@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 62: March 22, Wednesday
+
+**Today's Progress**: Making a React app!
+
+**Thoughts** Feel React is so interesting!
+
+**Link(s) to work**
+1. [React - Learning React](https://github.com/devlorz/ReduxSimpleStarter)
+
 ### Day 61: March 21, Tuesday
 
 **Today's Progress**: Set TransactionSummary Inflow and Outflow
