@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 63: March 24, Friday
+
+**Today's Progress**: Implement save and load wallet data
+
+**Thoughts** More works to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 62: March 22, Wednesday
 
 **Today's Progress**: Making a React app!
