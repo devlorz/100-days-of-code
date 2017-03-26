@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 65: March 26, Sunday
+
+**Today's Progress**: Fix DataManager and some tests
+
+**Thoughts** More works to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 64: March 25, Saturday
 
 **Today's Progress**: Try React with Bulma!
