@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 66: March 27, Monday
+
+**Today's Progress**: Implement Simple React-Redux app!
+
+**Thoughts** Feel Redux is hard to understand at the beginning!
+
+**Link(s) to work**
+1. [React - SimpleRedux](https://github.com/devlorz/SimpleRedux)
+
 ### Day 65: March 26, Sunday
 
 **Today's Progress**: Fix DataManager and some tests
