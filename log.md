@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 67: March 28, Tuesday
+
+**Today's Progress**: Set default wallet to toolbar and navigation view
+
+**Thoughts** A lot of works to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 66: March 27, Monday
 
 **Today's Progress**: Implement Simple React-Redux app!
