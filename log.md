@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 69: March 30, Thursday
+
+**Today's Progress**: Add TabTitle Model
+
+**Thoughts** A lot of works to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 68: March 29, Wednesday
 
 **Today's Progress**: Set wallet amout every time transaction amount is set
