@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 68: March 29, Wednesday
+
+**Today's Progress**: Set wallet amout every time when setting transaction amount
+
+**Thoughts** A lot of works to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 67: March 28, Tuesday
 
 **Today's Progress**: Set default wallet to toolbar and navigation view
