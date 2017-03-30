@@ -4,7 +4,7 @@
 
 ### Day 68: March 29, Wednesday
 
-**Today's Progress**: Set wallet amout every time when setting transaction amount
+**Today's Progress**: Set wallet amout every time transaction amount is set
 
 **Thoughts** A lot of works to do!
 
