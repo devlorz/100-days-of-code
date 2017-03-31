@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 70: March 31, Friday
+
+**Today's Progress**: Set TabLayout to show by month
+
+**Thoughts** A lot of works to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 69: March 30, Thursday
 
 **Today's Progress**: Add TabTitle Model
