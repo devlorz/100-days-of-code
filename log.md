@@ -2,6 +2,15 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 71: April 2, Sunday
+
+**Today's Progress**: Fix some bugs and change TabLayout title
+
+**Thoughts** A lot of works to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 70: March 31, Friday
 
 **Today's Progress**: Set TabLayout to show by month
