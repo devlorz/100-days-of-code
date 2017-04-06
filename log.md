@@ -2,9 +2,12 @@
 
 ## 2017 Restart 100 Days of Code
 
-### Day 73: April 6, Thursday
+### Day 73-75: April 4-6, Tuesday - Thursday
 
-**Today's Progress**: Fix load default wallet method
+**Today's Progress**: 
+1. Add AdaptiveTabLayout
+2. Add Wallet menu at navigation drawer
+3. Fix load default wallet method
 
 **Thoughts** A lot of works to do!
 
