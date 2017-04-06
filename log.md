@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## 2017 Restart 100 Days of Code
+
+### Day 73: April 6, Thursday
+
+**Today's Progress**: Fix load default wallet method
+
+**Thoughts** A lot of works to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 72: April 3, Monday
 
 **Today's Progress**: Learn more about Redux by building a weather app
@@ -8,8 +19,6 @@
 
 **Link(s) to work**
 1. [React - ReduxWeather](https://github.com/devlorz/ReduxWeather)
-
-## 2017 Restart 100 Days of Code
 
 ### Day 71: April 2, Sunday
 
