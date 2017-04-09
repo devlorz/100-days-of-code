@@ -2,6 +2,17 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 77: April 9, Sunday
+
+**Today's Progress**: 
+1. Add set current wallet method
+2. Fix some tests
+
+**Thoughts** A lot of works to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 76: April 7, Friday
 
 **Today's Progress**: 
