@@ -2,6 +2,16 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 78: April 10, Monday
+
+**Today's Progress**: 
+1. Implement adding new wallet
+
+**Thoughts** A lot of works to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 77: April 9, Sunday
 
 **Today's Progress**: 
