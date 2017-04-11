@@ -2,6 +2,18 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 79: April 11, Tuesday
+
+**Today's Progress**: 
+1. Add set current wallet method to onClick event
+2. Fix Add Wallet Amount method
+3. Fix add transection method
+
+**Thoughts** A lot of works to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 78: April 10, Monday
 
 **Today's Progress**: 
