@@ -2,6 +2,16 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 80: April 12, Wednesday
+
+**Today's Progress**: 
+1. Add open calculator activity action
+
+**Thoughts** A lot of works to do!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 79: April 11, Tuesday
 
 **Today's Progress**: 
