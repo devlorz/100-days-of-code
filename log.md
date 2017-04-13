@@ -2,6 +2,16 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 81: April 13, Thursday
+
+**Today's Progress**: 
+1. Implement CalculatorActivity
+
+**Thoughts** TDD CalculatorActivity, will implement CalculatorFragment later.
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 80: April 12, Wednesday
 
 **Today's Progress**: 
