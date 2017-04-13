@@ -7,7 +7,7 @@
 **Today's Progress**: 
 1. Add open calculator activity action
 
-**Thoughts** A lot of works to do!
+**Thoughts** TDD the open calculator activity action, will continue to make layout and so on
 
 **Link(s) to work**
 1. [Android - Money Simple](#)
