@@ -2,6 +2,16 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 82-85: April 14-17
+
+**Today's Progress**: 
+1. Implement Calculator in Calculator Fragment
+
+**Thoughts** Continue to make a calculator to work !
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 81: April 13, Thursday
 
 **Today's Progress**: 
