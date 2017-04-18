@@ -2,6 +2,16 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 86: April 18, Tuesday
+
+**Today's Progress**: 
+1. Implement delete button and dot button
+
+**Thoughts** Implement all numble and dot parts. Will implement calculation parts later.
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 82-85: April 14-17
 
 **Today's Progress**: 
