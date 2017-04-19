@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## 2017 Restart 100 Days of Code
+## 2017 100 Days of Code 
 
 ### Day 87: April 19, Wednesday
 
