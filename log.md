@@ -2,6 +2,16 @@
 
 ## 2017 Restart 100 Days of Code
 
+### Day 87: April 19, Wednesday
+
+**Today's Progress**: 
+1. Implement calculation operator
+
+**Thoughts** Feel good when figure out how to implement calculation operator. The app was fine on emulator but crash on real device. Will fix it later.
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 86: April 18, Tuesday
 
 **Today's Progress**: 
