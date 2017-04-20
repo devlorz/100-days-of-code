@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Day 88: April 20, Thursday
+
+**Today's Progress**: 
+1. Refactor MainFragment and MainPresenter
+
+**Thoughts** Figure out problem that cause by device not code itself. 
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 87: April 19, Wednesday
 
 **Today's Progress**: 
