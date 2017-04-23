@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Day 89: April 23, Sunday
+
+**Today's Progress**: 
+1. Implement equal operator
+
+**Thoughts** Try figure out how to equal value !
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 88: April 20, Thursday
 
 **Today's Progress**: 
