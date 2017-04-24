@@ -2,6 +2,17 @@
 
 ## 2017 100 Days of Code 
 
+### Day 90: April 24, Monday
+
+**Today's Progress**: 
+1. Implement plus operator and minus operator
+2. Fix onDotPress problem
+
+**Thoughts** Finally figure it out !
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 89: April 23, Sunday
 
 **Today's Progress**: 
