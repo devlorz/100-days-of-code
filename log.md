@@ -2,6 +2,17 @@
 
 ## 2017 100 Days of Code 
 
+### Day 91: April 25, Tuesday
+
+**Today's Progress**: 
+1. Implement multiple operator and divide operator
+2. Fix minus value problem
+
+**Thoughts** Finally figure it out how to calculate on multiple and divide operator !
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 90: April 24, Monday
 
 **Today's Progress**: 
