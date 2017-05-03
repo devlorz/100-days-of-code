@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Day 92: May 2, Tuesday
+
+**Today's Progress**: 
+1. Refactor CalculatorPresenter
+
+**Thoughts** Refactor code for better performance
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 91: April 25, Tuesday
 
 **Today's Progress**: 
