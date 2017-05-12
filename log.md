@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Day 93: May 12, Friday
+
+**Today's Progress**: 
+1. Implement sending data between AddTransactionActivity and CalculatorActivity
+
+**Thoughts** Refactor code for better performance
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 92: May 2, Tuesday
 
 **Today's Progress**: 
