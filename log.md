@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Day 94: May 16, Tuesday
+
+**Today's Progress**: 
+1. Change ListView to RecyclerView
+
+**Thoughts** Refactor code for better performance
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 93: May 12, Friday
 
 **Today's Progress**: 
