@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Day 95: May 18, Thursday
+
+**Today's Progress**: 
+1. Fix RecyclerView Test
+
+**Thoughts** Rewrite test code but still fail
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 94: May 16, Tuesday
 
 **Today's Progress**: 
