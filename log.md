@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Day 96: May 19, Friday
+
+**Today's Progress**: 
+1. Refactor MoneyList UI code
+
+**Thoughts** Rewrite test code but still fail
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 95: May 18, Thursday
 
 **Today's Progress**: 
