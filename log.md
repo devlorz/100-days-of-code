@@ -2,6 +2,17 @@
 
 ## 2017 100 Days of Code 
 
+### Day 97: May 22, Monday
+
+**Today's Progress**: 
+1. Implement EditTransaction action
+2. Add currency symbol to amount
+
+**Thoughts** App nearly complete. Will create overview activity tomorrow.
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 96: May 19, Friday
 
 **Today's Progress**: 
