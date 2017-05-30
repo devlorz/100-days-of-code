@@ -2,6 +2,17 @@
 
 ## 2017 100 Days of Code 
 
+### Day 98: May 30, Tuesday
+
+**Today's Progress**: 
+1. Add Overview UI
+2. Add TransactionType UI
+
+**Thoughts** App nearly complete. To implement Overview and TransactionType tomorrow.
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 97: May 22, Monday
 
 **Today's Progress**: 
