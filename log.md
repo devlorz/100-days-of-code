@@ -2,6 +2,17 @@
 
 ## 2017 100 Days of Code 
 
+### Day 99: June 18, Sunday
+
+**Today's Progress**: 
+1. Finish Overview Activity
+2. Finish TransactionType Activity
+
+**Thoughts** App almost complete. Ready to deploy to Google Play store soon!
+
+**Link(s) to work**
+1. [Android - Money Simple](#)
+
 ### Day 98: May 30, Tuesday
 
 **Today's Progress**: 
