@@ -7,7 +7,7 @@
 **Today's Progress**: 
 1. App is published! Enjoy the app! -> https://play.google.com/store/apps/details?id=com.leeway.moneysimple
 
-**Thoughts** Finally release the app! Feel very excited and happy! This is not finish yet but there is a lot of works to do from now on!
+**Thoughts** Finally release the app! Feel very excited and happy! This is not the end but there is a lot of works to do from now on!
 
 **Link(s) to work**
 1. [Android - Money Simple](https://play.google.com/store/apps/details?id=com.leeway.moneysimple)
