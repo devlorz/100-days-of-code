@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Day 100: June 22, Thursday
+
+**Today's Progress**: 
+1. App is published! Enjoy the app! -> https://play.google.com/store/apps/details?id=com.leeway.moneysimple
+
+**Thoughts** Finally release the app! Feel very excited and happy! This is not finish yet but there is a lot of works to do from now on!
+
+**Link(s) to work**
+1. [Android - Money Simple](https://play.google.com/store/apps/details?id=com.leeway.moneysimple)
+
 ### Day 99: June 18, Sunday
 
 **Today's Progress**: 
