@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Round 2 Day 1: July 26, Wednesday
+
+**Today's Progress**: 
+1. Start new round of 100 Days of Code !
+
+**Thoughts** Trying to learn kotlin so decided to build new app that implemented by kotlin.
+
+**Link(s) to work**
+1. [Android - Kotlin MVP Calculator](https://github.com/devlorz/kotlin-mvp-calculator)
+
 ### Day 100: June 22, Thursday
 
 **Today's Progress**: 
