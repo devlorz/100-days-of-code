@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Round 2 Day 2: July 27, Thursday
+
+**Today's Progress**: 
+1. Implement 0-9 buttons !
+
+**Thoughts** Feel comfortable more with kotlin !
+
+**Link(s) to work**
+1. [Android - Kotlin MVP Calculator](https://github.com/devlorz/kotlin-mvp-calculator)
+
 ### Round 2 Day 1: July 26, Wednesday
 
 **Today's Progress**: 
