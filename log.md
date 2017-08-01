@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Round 2 Day 5: August 1, Tuesday
+
+**Today's Progress**: 
+1. Add more MainActivity test
+
+**Thoughts** Feel comfortable more with kotlin! Hope to implement more soon!
+
+**Link(s) to work**
+1. [Android - Kotlin MVP Calculator](https://github.com/devlorz/kotlin-mvp-calculator)
+
 ### Round 2 Day 3&4: July 29-30, Saturday & Sunday
 
 **Today's Progress**: 
