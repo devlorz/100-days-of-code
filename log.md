@@ -2,6 +2,17 @@
 
 ## 2017 100 Days of Code 
 
+### Round 2 Day 6&7: August 5-6, Saturday & Sunday
+
+**Today's Progress**: 
+1. Add dot and triple zero buttons
+2. Add more tests
+
+**Thoughts** Feel comfortable more with kotlin !
+
+**Link(s) to work**
+1. [Android - Kotlin MVP Calculator](https://github.com/devlorz/kotlin-mvp-calculator)
+
 ### Round 2 Day 5: August 1, Tuesday
 
 **Today's Progress**: 
