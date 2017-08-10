@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Round 2 Day 9: August 9, Wednesday
+
+**Today's Progress**: 
+1. Add plus and minus button
+
+**Thoughts** Feel comfortable more with kotlin !
+
+**Link(s) to work**
+1. [Android - Kotlin MVP Calculator](https://github.com/devlorz/kotlin-mvp-calculator)
+
 ### Round 2 Day 8: August 8, Tuesday
 
 **Today's Progress**: 
