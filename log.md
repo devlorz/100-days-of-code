@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Round 2 Day 10&11: August 13-14, Sunday & Monday
+
+**Today's Progress**: 
+1. Finish calculator app built with kotlin
+
+**Thoughts** Feel happy to completed the app !
+
+**Link(s) to work**
+1. [Android - Kotlin MVP Calculator](https://github.com/devlorz/kotlin-mvp-calculator)
+
 ### Round 2 Day 9: August 9, Wednesday
 
 **Today's Progress**: 
