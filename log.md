@@ -2,6 +2,26 @@
 
 ## 2017 100 Days of Code 
 
+### Round 2 Day 13: August 18, Friday
+
+**Today's Progress**: 
+1. Add main view !
+
+**Thoughts** Feel comfortable with Android XML layout !
+
+**Link(s) to work**
+1. [Android - Simple Currency Exchange Calculator](https://github.com/devlorz/simple-currency-exchange)
+
+### Round 2 Day 12: August 15, Tuesday
+
+**Today's Progress**: 
+1. Start new project Simple Currency Exchange Calculator App !
+
+**Thoughts** Feel happy to start new project !
+
+**Link(s) to work**
+1. [Android - Simple Currency Exchange Calculator](https://github.com/devlorz/simple-currency-exchange)
+
 ### Round 2 Day 10&11: August 13-14, Sunday & Monday
 
 **Today's Progress**: 
