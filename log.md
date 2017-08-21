@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Round 2 Day 14: August 21, Monday
+
+**Today's Progress**: 
+1. Add button, textview and imageview to MainActivity !
+
+**Thoughts** Feel comfortable with Android XML layout !
+
+**Link(s) to work**
+1. [Android - Simple Currency Exchange Calculator](https://github.com/devlorz/simple-currency-exchange)
+
 ### Round 2 Day 13: August 18, Friday
 
 **Today's Progress**: 
