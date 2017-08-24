@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Round 2 Day 16: August 24, Thursday
+
+**Today's Progress**: 
+1. Add MainPresenter Test!
+
+**Thoughts** Writing test in kotlin more comfortably!
+
+**Link(s) to work**
+1. [Android - Simple Currency Exchange Calculator](https://github.com/devlorz/simple-currency-exchange)
+
 ### Round 2 Day 15: August 22, Tuesday
 
 **Today's Progress**: 
