@@ -2,6 +2,16 @@
 
 ## 2017 100 Days of Code 
 
+### Round 2 Day 20: September 1, Friday
+
+**Today's Progress**: 
+1. Add currency exchange rate api !
+
+**Thoughts** Feel more comfortable with kotlin!
+
+**Link(s) to work**
+1. [Android - Simple Currency Exchange Calculator](https://github.com/devlorz/simple-currency-exchange)
+
 ### Round 2 Day 18&19: August 29&30, Tuesday & Wednesday
 
 **Today's Progress**: 
